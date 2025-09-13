@@ -39,7 +39,7 @@ Suryansh-Enterprises-Website/
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/Suryansh-Enterprises-Website.git
+   git clone https://github.com/iSPYadavs01/Suryansh-Enterprises-Website.git
    cd Suryansh-Enterprises-Website
    ```
 2. Double-click `index.html` to open in your browser.
