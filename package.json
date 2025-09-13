@@ -1,0 +1,13 @@
+{
+  "name": "suryansh-enterprises",
+  "version": "1.0.0",
+  "description": "A responsive, multilingual (English + Hindi) business website for **Suryansh Enterprises** with service tabs, contact form validation, smooth scrolling, animations, and mobile menu support.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

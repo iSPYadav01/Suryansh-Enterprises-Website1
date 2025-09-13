@@ -925,14 +925,18 @@ body {
   margin: 0 auto;
 }
 
-.hero-flag {
+/* CSS for Logo */
+.hero-logo {
   display: flex;
-  width: 60px;
-  height: 40px;
-  margin: 0 auto var(--space-24) auto;
-  border-radius: var(--radius-sm);
-  overflow: hidden;
-  box-shadow: var(--shadow-sm);
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.hero-logo img {
+  width: 100px;
+  /* smaller fixed width */
+  height: auto;
 }
 
 .flag-stripe {

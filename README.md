@@ -1,11 +1,12 @@
 # Suryansh Enterprises Website
 
-A responsive, multilingual (English + Hindi) business website for **Suryansh Enterprises** with service tabs, contact form validation, smooth scrolling, animations, and mobile menu support.
+A responsive business website for **Suryansh Enterprises** with service tabs, contact form validation, smooth scrolling, animations, and mobile menu support.
 
 ---
 
 ## 🚀 Features
 
+* 🖼️ **Custom Logo Support** – Replace hero flag with your company logo
 * 🌐 **Multilingual Support** – English & Hindi toggle
 * 🗂️ **Service Tabs** – Dynamic tab-based service details
 * 📩 **Contact Form** – Validation + success/error messages
@@ -23,9 +24,9 @@ Suryansh-Enterprises-Website/
 │-- style.css          # Stylesheet for layout, colors, and responsiveness
 │-- app.js             # JavaScript functionality (language toggle, tabs, forms, etc.)
 │-- /assets            # Images, icons, logos, etc.
-│   ├── logo.png
-│   ├── hero.jpg
-│   └── services/
+│   ├── logo.png       # Company logo
+│   ├── hero.jpg       # Hero section background image
+│   └── services/      # Service-related images
 │-- /docs              # Additional project documentation (if needed)
 │   └── README.md
 ```
@@ -47,7 +48,7 @@ Suryansh-Enterprises-Website/
 ### Option 2 – Run with Node.js Local Server
 
 1. Install [Node.js](https://nodejs.org/) if not already installed.
-2. Inside project folder, create a `server.js` file with Express (optional):
+2. Inside project folder, create a `server.js` file with Express:
 
    ```js
    const express = require('express');
@@ -86,9 +87,10 @@ You can deploy this website for free using:
 
 ## 🔑 Customization
 
-* Update company info in **index.html** (logo, text, services)
+* Replace **assets/logo.png** with your company logo
+* Update company info in **index.html** (text, services, contact)
 * Edit **style.css** for brand colors & design tweaks
-* Modify **app.js** for custom features
+* Modify **app.js** for extra features
 
 ---
 
