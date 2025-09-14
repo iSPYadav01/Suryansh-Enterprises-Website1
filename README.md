@@ -42,8 +42,8 @@ Suryansh-Enterprises-Website/
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/iSPYadavs01/Suryansh-Enterprises-Website.git
-   cd Suryansh-Enterprises-Website
+   git clone https://github.com/iSPYadav01/Suryansh-Enterprises-Website1.git
+   cd Suryansh-Enterprises-Website1
    ```
 2. Double-click `index.html` to open in your browser.
 
@@ -105,4 +105,5 @@ This project is open-source under the **MIT License**.
 ## 👨‍💻 Author
 
 Developed by **iSPYadavs01** ✨
+
 
