@@ -102,8 +102,19 @@ This project is open-source under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+<div align="center">
+  <h2>🚀 Ready to Get Started?</h2>
+  <p>Follow the <a href="#quick-start">Quick Start</a> guide to have the application running in minutes!</p>
+  
+  <a href="#quick-start" style="background-color: #2563eb; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold;">Get Started Now</a>
+</div>
 
-Developed by **iSPYadavs01** ✨
+---
+
+<div align="center">
+  <p>Made with ❤️ by <strong>Data Dynasty Lab</strong></p>
+  <p>© 2025 Data Dynasty Lab. All rights reserved.</p>
+</div>
+
 
 
